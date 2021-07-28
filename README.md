@@ -99,10 +99,6 @@ npm run script:StakingManager
 
 <br>
 
-## 【Demo】
-- Demo video that script above is executed  
-https://youtu.be/0APV4cNICDc
-
 
 <br>
 
